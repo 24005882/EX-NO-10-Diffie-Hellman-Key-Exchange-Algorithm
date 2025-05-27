@@ -1,6 +1,6 @@
 # EX-NO-10-Diffie-Hellman-Key-Exchange-Algorithm
-## NAME: ANU RADHA N
-## REG.NO:212223230018
+## NAME:M tharun
+## REG.NO:212224230288
 
 ## AIM:
 To Implement Diffie Hellman Key Exchange Algorithm 
